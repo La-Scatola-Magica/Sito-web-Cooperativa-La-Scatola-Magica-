@@ -379,7 +379,6 @@
 
 section {
     position: absolute;
-    
     transform: translateY(-50%);
     width: 100%;
     display: flex;
