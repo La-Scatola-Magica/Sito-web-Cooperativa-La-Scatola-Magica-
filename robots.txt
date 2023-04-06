@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://la-scatola-magica.github.io/Sito-web-Cooperativa-La-Scatola-Magica-/sitemap.xml
