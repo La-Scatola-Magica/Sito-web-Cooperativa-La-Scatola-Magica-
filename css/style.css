@@ -13,6 +13,11 @@
     display: table;
   }
 
+  .img-fluid {
+    width: 750px;
+    height: 500px;
+  }
+
 
   .img-centrata {
     display: block;
