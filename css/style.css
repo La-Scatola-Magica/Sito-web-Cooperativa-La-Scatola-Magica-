@@ -13,11 +13,26 @@
     display: table;
   }
 
-  .img-fluid {
+  /**.img-fluid {
+    width: 750px;
+    height: 500px;
+  }
+*/
+
+.img-fluid[alt="Centri Estivi"] {
     width: 750px;
     height: 500px;
   }
 
+.img-fluid[alt="Centri Pomeridiani e Ripetizioni"] {
+    width: 500px;
+    height: 750px;
+  }
+
+.img-fluid[alt="Servizi Pre-Post Scuola"] {
+    width: 500px;
+    height: 750px;
+  }
 
   .img-centrata {
     display: block;
