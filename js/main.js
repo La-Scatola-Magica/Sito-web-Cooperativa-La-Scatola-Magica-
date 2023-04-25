@@ -78,7 +78,7 @@ resultsCounter = function() {
     }
   
     numberCount($("#countOne"), 30, 1000);
-    numberCount($("#countTwo"), 1748, 1500);
+    numberCount($("#countTwo"), 348, 1500);
     numberCount($("#countThree"), 5, 2000);
   };
   
