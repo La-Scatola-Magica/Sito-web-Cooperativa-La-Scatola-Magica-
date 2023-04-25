@@ -6,6 +6,26 @@
     padding: 5px;
   }
   
+
+.counts {
+  display: flex;
+  justify-content: center; /* Per centrare la sezione */
+}
+
+.counts div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px; /* Aggiunge uno spazio tra le sezioni */
+}
+
+.border {
+  border-left: 1px solid black;
+  height: 30px;
+  margin: 0 10px; /* Aggiunge uno spazio tra le sezioni */
+}
+
   /* Clear floats after image containers */
   .row::after {
     content: "";
